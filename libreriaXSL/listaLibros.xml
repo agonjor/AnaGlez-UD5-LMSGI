@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="listaLibros5_2.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erieben</autor>
+        <editorial>Charles River Media</editorial>
+        <ISBN>978-15825893258</ISBN>
+        <precio>50.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editorial>Dykinson</editorial>
+        <ISBN>978-84-9849-998-8</ISBN>
+        <precio>13.00</precio>
+        <numPaginas>100</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editorial>Dykinson</editorial>
+        <ISBN>978-84-9849-703-8</ISBN>
+        <precio>12.00</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editorial>Dykinson</editorial>
+        <ISBN>978-84-9849-998-8</ISBN>
+        <precio>09.00</precio>
+        <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editorial>Dykinson</editorial>
+        <ISBN>978-84-9849-703-8</ISBN>
+        <precio>06.50</precio>
+        <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Physics-based animation I</titulo>
+        <autor>Kenny Erieben</autor>
+        <editorial>Charles River Media</editorial>
+        <ISBN>978-15825893258</ISBN>
+        <precio>30.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Physics-based animation II</titulo>
+        <autor>Kenny Erieben</autor>
+        <editorial>Charles River Media</editorial>
+        <ISBN>978-15825893258</ISBN>
+        <precio>25.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Entornos de desarrollo</titulo>
+        <autor>A. Ramos Martín</autor>
+        <editorial>Garceta</editorial>
+        <ISBN>978-15825893258</ISBN>
+        <precio>10.50</precio>
+        <numPaginas>230</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Entornos de desarrollo II</titulo>
+        <autor>A. Ramos Martín</autor>
+        <editorial>Garceta</editorial>
+        <ISBN>978-15825893258</ISBN>
+        <precio>12.50</precio>
+        <numPaginas>130</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Redes locales I</titulo>
+        <autor>Jesús Lopez Fernandez</autor>
+        <editorial>MacMillan</editorial>
+        <ISBN>938-16722393258</ISBN>
+        <precio>10.50</precio>
+        <numPaginas>130</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Redes locales II</titulo>
+        <autor>Jesús Lopez Fernandez</autor>
+        <editorial>MacMillan</editorial>
+        <ISBN>938-15825493348</ISBN>
+        <precio>60.50</precio>
+        <numPaginas>130</numPaginas>
+    </libro>
+</libreria>
