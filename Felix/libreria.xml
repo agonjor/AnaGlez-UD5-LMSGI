@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <titulo>El Señor de los Anillos I: la Comunidad del Anillo.</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <ISBN>9788445073728</ISBN>
+        <editorial>MINOTAURO</editorial>
+        <precio>6</precio>
+        <numPaginas>1392</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Señor de los Anillos II: las Dos Torres.</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <ISBN>8478884451</ISBN>
+        <editorial>MINOTAURO</editorial>
+        <precio>9</precio>
+        <numPaginas>1332</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Señor de los Anillos III: el Retorno del Rey.</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <ISBN>8478884450</ISBN>
+        <editorial>MINOTAURO</editorial>
+        <precio>10</precio>
+        <numPaginas>1322</numPaginas>
+    </libro>
+</libreria>
